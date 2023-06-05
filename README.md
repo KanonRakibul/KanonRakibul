@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Python*
 
-- 🤝 I’m looking for help with *Network*
+- 🤝 I’m looking for help with *Networking*
 
 - 💬 Ask me about *Networking*
 
