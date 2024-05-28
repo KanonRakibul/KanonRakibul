@@ -1,6 +1,6 @@
 ![logo](https://github.com/KanonRakibul/KanonRakibul/blob/main/networking%20cover.gif)
 <h1 align="center">Hi 👋, I'm Md.Rakibul Hasan Kanon</h1>
-<h3 align="center">CSE student</h3>
+<h3 align="center">Networking Enthusiast</h3>
 <img align="right" alt="Coding" width="350" src="https://github.com/KanonRakibul/KanonRakibul/blob/main/networking%20backg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanonrakibul&label=Profile%20views&color=0e75b6&style=flat" alt="kanonrakibul" /> </p>
 
